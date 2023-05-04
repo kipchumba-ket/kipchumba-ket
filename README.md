@@ -14,7 +14,7 @@
 * 🌱 I'm currently learning Vue & Nextjs
 * 💬 Ping me about Frontend Web Development & Graphics
 * 👯 I'm looking forward to collaborate in Frontend, Backend & UI Design Projects
-<!-- * 🔭 Also looking for help with Ruby, Python & UI/UX Design. -->
+* 🔭 Also looking for help with  Python & UI/UX Design.
 * 🌐 You can see some of my projects on 
 
 </br>
